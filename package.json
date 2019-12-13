@@ -1,6 +1,8 @@
 {
-  "name": "reactdesigns",
-  "private": false,
+  "name": "addreact",
+  "private": true,
+  "repository": "addreact",
+
   "workspaces": [
     "packages/*"
   ],
